@@ -165,3 +165,13 @@ PRs welcome! If you know of new AI crawlers or have suggestions for the generato
 ## License
 
 MIT License
+
+## All GEOScore Open Source Projects
+
+| Project | Description |
+|---------|-------------|
+| [awesome-geo](https://github.com/henu-wang/awesome-geo) | Curated list of GEO resources |
+| [geo-scoring-methodology](https://github.com/henu-wang/geo-scoring-methodology) | Open scoring methodology |
+| [ai-robots-txt-generator](https://github.com/henu-wang/ai-robots-txt-generator) | This project |
+| [geo-checklist](https://github.com/henu-wang/geo-checklist) | Interactive readiness checklist |
+| [ai-crawlers-reference](https://github.com/henu-wang/ai-crawlers-reference) | AI crawler database |
