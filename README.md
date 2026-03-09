@@ -2,6 +2,14 @@
 
 A simple tool to generate an optimized `robots.txt` file that properly configures access for AI search engine crawlers like ChatGPT (GPTBot), Perplexity (PerplexityBot), Google Gemini, Claude, and more.
 
+## Online Tools
+
+Prefer a web-based tool? Try our free online generators — no installation needed:
+
+- **[AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator)** — Generate an optimized robots.txt for AI crawlers right in your browser
+- **[AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker)** — Check if AI search engines can access your site
+- **[Full GEO Scan](https://geoscoreai.com)** — Comprehensive 11-signal AI search readiness scan
+
 ## Why This Matters
 
 Many websites accidentally block AI search engine crawlers, making their content invisible to ChatGPT, Perplexity, and other AI-powered search engines. This tool helps you generate a properly configured `robots.txt` that:
